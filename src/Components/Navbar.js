@@ -14,6 +14,11 @@ const Navbar = () => {
           <li className="nav-item">
             <Link className="nav-link" to="/dashboard">Dashboard</Link>
           </li>
+          <li className="nav-item">
+            <Link className="btn btn-outline-light ms-2" to="/dashboard">
+              Manage
+            </Link>
+          </li>
         </ul>
       </div>
     </nav>

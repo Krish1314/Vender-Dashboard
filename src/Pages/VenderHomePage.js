@@ -34,12 +34,6 @@ const VendorHome = () => {
       <p className="lead mt-3">
         Manage your products, view orders, and grow your business with ease.
       </p>
-      <div className="mt-4 mb-5">
-        <Link to="/dashboard" className="btn btn-primary mx-2">
-          Go to Dashboard
-        </Link>
-        <button className="btn btn-outline-secondary mx-2">Register</button>
-      </div>
 
       <h2 className="mt-5">Your Products</h2>
       {products.length === 0 ? (

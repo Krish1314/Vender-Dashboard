@@ -1,11 +1,11 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "AirPods",
-      "price": 100,
-      "category": "Electronics",
-      "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-4-select-202409_FV1?wid=976&hei=916&fmt=jpeg&qlt=90&.v=WnVKRVRUTFVsYThXaWkydWViL1Q3ZDZGTE9TV3RDcGJJclBqdUtzdTJYYjNHc3NlSmU2dzJyR1kxZEwyTE1neUJkRlpCNVhYU3AwTldRQldlSnpRa0NZZXAxWFNjRXhITDI1RVE5YVpyU0E"
+      "id": "dbe2",
+      "name": "Iphone 17 Pro Max ",
+      "price": "23435",
+      "category": "Phone",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRKm-saS40espStJDvQqbS2_GFBn_HXhxYteY247sXYM9b-4hvlnEsMt-MMHB_LEN71RV6QXMBpqf4pikh6YZ1axCu5ddi4FeCwx8fSA4j9aQUZwCJfFhjHX6nXtajypxuHZU3Du_B87A&usqp=CAc"
     }
   ]
 }
